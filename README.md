@@ -1,2 +1,1 @@
-# Youtube-Sentiment-Analyzer
-End-to-end Python NLP pipeline analyzing YouTube comments with Multilingual BERT and YouTube Data API v3.
+The objective of this project was to design and implement an end-to-end Natural Language Processing (NLP) data pipeline capable of extracting user comments from YouTube videos, classifying audience sentiment across multiple languages, and identifying dominant discussion topics. Built to solve a real-world analytics challenge for content creators, the application automates qualitative feedback analysis by transforming unstructured social media text into structured statistical summaries and high-resolution visual dashboards.
